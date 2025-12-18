@@ -1,0 +1,2 @@
+# sab say pehlay run as administrator is k baad us folder k path may ja kar phir yeh comand 
+setup /configure Configuration.xml
